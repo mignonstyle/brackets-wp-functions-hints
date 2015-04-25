@@ -29,12 +29,12 @@ WordPress Code Reference / [Functions](https://developer.wordpress.org/reference
 Changelog
 --------------
 Ver 1.0.1
-1. Add a new function of WordPress 4.2
+* Add a new function of WordPress 4.2
 
 Ver 1.0.0
-1. Initial release.
-2. Add function of up to WordPress 4.1
-3. Remove function of deprecated
+* Initial release.
+* Add function of up to WordPress 4.1
+* Remove function of deprecated
 
 
 License
