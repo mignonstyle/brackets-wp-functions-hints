@@ -28,6 +28,9 @@ WordPress Code Reference / [Functions](https://developer.wordpress.org/reference
 
 Changelog
 --------------
+Ver 1.0.2
+* Add a new function of WordPress 4.3
+
 Ver 1.0.1
 * Add a new function of WordPress 4.2
 

@@ -3,7 +3,7 @@
 	"title": "Brackets WordPress Functions Hints",
 	"description": "Brackets WordPress Functions Hints - Provides code hints for function for the WordPress Themes and/or Plugins.",
 	"homepage": "https://github.com/mignonstyle/brackets-wp-functions-hints",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Mignon Style (https://github.com/mignonstyle)",
 	"license": "MIT",
 	"keywords": ["wordpress", "wp", "php", "hint", "hints", "hook", "function", "tag"],
@@ -13,7 +13,7 @@
 	"i18n": ["en", "ja"],
 	"package-i18n": {
 		"ja": {
-			"description": "Brackets WordPress Functions Hints - WordPressのテーマやプラグインのための関数やテンプレートタグのコードヒントです。"
+			"description": "Brackets WordPress Functions Hints - WordPressのテーマやプラグインのための関数やテンプレートタグのコードヒントです。WordPress 4.3対応。"
 		}
 	}
 }
